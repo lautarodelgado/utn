@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1524603500 source:c:\users\pcx\desktop\alta - baja\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1524604995 c:\users\pcx\desktop\alta - baja\funciones.h
+
+1524603697 source:c:\users\pcx\desktop\alta - baja\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1524527568 source:c:\users\monica\desktop\programaci-n-1-master\alta - baja\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1524505136 c:\users\monica\desktop\programaci-n-1-master\alta - baja\funciones.h
+
+1524505136 source:c:\users\monica\desktop\programaci-n-1-master\alta - baja\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1524527568 source:c:\users\monica\desktop\alta - baja\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1524505136 c:\users\monica\desktop\alta - baja\funciones.h
+
+1524528162 source:c:\users\monica\desktop\alta - baja\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
