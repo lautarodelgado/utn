@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1525653091 source:c:\users\pcx\desktop\getint\main.c
+	<stdio.h>
+	<stdlib.h>
+
